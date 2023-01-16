@@ -2,7 +2,7 @@
 Examples of how convolutional neural networks, and deep learning in general (CNN, Transformers, Autoencoders, . . . ) can be used as an essential tool for studying complex systems. 
 
 Overview of Idea: CNN (and/or Vision_Transformers), and DL in general, extract powerful features from complex systems, very difficult or impossible for humans to extract such features. 
-Work this out with powerful complexity-science simulations (Ising, CA, Life, . . . ), and applying CNN and other DL to them . . . and 
+Work this out with powerful complexity-science simulations (Ising, SOC, CA, Life, . . . ), and applying CNN and other DL to them . . . and 
 xAI on the results, and on . . . 
 
 
